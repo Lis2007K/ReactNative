@@ -4,6 +4,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import ButtonScreen from './screens/ButtonScreen';
 import MenuScreen from './screens/MenuScreen';
+import ListScreen from './screens/ListScreen';
 
 
 const Stack = createStackNavigator();
@@ -20,6 +21,7 @@ export default function App() {
       >
         <Stack.Screen name="Menu" component={MenuScreen} />
         <Stack.Screen name="ButtonScreen" component={ButtonScreen} />
+        <Stack.Screen name="List" component={ListScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );
