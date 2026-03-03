@@ -51,3 +51,9 @@ yarn.lock
 *.swo
 *~
 .DS_Store
+
+
+.expo/
+dist/
+web-build/
+expo-env.d.ts
