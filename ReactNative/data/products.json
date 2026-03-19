@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Running Shoe Pro",
+    "category": "Running",
+    "price": 129.99,
+    "stock": {
+      "black": 13,
+      "white": 12,
+      "blue": 13,
+      "red": 12
+    },
+    "image": "https://example.com/images/running-shoe-pro.jpg",
+    "description": "High-performance running shoe with advanced cushioning and breathable mesh upper."
+  },
+  {
+    "id": 2,
+    "name": "Casual Sneaker",
+    "category": "Casual",
+    "price": 79.99,
+    "stock": {
+      "black": 8,
+      "white": 7,
+      "blue": 8,
+      "red": 7
+    },
+    "image": "https://example.com/images/casual-sneaker.jpg",
+    "description": "Comfortable everyday sneaker perfect for casual wear and light activities."
+  },
+  {
+    "id": 3,
+    "name": "Basketball High-Tops",
+    "category": "Basketball",
+    "price": 149.99,
+    "stock": {
+      "black": 5,
+      "white": 5,
+      "blue": 5,
+      "red": 5
+    },
+    "image": "https://example.com/images/basketball-high-tops.jpg",
+    "description": "Professional basketball shoes with ankle support and superior grip on court."
+  },
+  {
+    "id": 4,
+    "name": "Hiking Boot",
+    "category": "Hiking",
+    "price": 189.99,
+    "stock": {
+      "black": 4,
+      "white": 4,
+      "blue": 4,
+      "red": 3
+    },
+    "image": "https://example.com/images/hiking-boot.jpg",
+    "description": "Durable hiking boot with waterproof membrane and rugged outsole for trails."
+  },
+  {
+    "id": 5,
+    "name": "Dress Shoe Classic",
+    "category": "Formal",
+    "price": 99.99,
+    "stock": {
+      "black": 7,
+      "white": 6,
+      "blue": 6,
+      "red": 6
+    },
+    "image": "https://example.com/images/dress-shoe-classic.jpg",
+    "description": "Elegant dress shoe made from genuine leather, suitable for formal occasions."
+  },
+  {
+    "id": 6,
+    "name": "Sandals Summer",
+    "category": "Sandals",
+    "price": 49.99,
+    "stock": {
+      "black": 10,
+      "white": 10,
+      "blue": 10,
+      "red": 10
+    },
+    "image": "https://example.com/images/sandals-summer.jpg",
+    "description": "Lightweight summer sandals with adjustable straps and comfortable footbed."
+  },
+  {
+    "id": 7,
+    "name": "Boot Winter",
+    "category": "Boots",
+    "price": 159.99,
+    "stock": {
+      "black": 5,
+      "white": 4,
+      "blue": 5,
+      "red": 4
+    },
+    "image": "https://example.com/images/boot-winter.jpg",
+    "description": "Warm winter boot with insulated lining and slip-resistant sole for cold weather."
+  },
+  {
+    "id": 8,
+    "name": "Skate Shoe",
+    "category": "Skateboarding",
+    "price": 89.99,
+    "stock": {
+      "black": 9,
+      "white": 9,
+      "blue": 9,
+      "red": 8
+    },
+    "image": "https://example.com/images/skate-shoe.jpg",
+    "description": "Durable skate shoe with reinforced toe cap and flat sole for optimal board control."
+  },
+  {
+    "id": 9,
+    "name": "Loafer Comfort",
+    "category": "Loafers",
+    "price": 69.99,
+    "stock": {
+      "black": 7,
+      "white": 7,
+      "blue": 7,
+      "red": 7
+    },
+    "image": "https://example.com/images/loafer-comfort.jpg",
+    "description": "Comfortable loafer with memory foam insole, perfect for all-day wear."
+  },
+  {
+    "id": 10,
+    "name": "Soccer Cleat",
+    "category": "Soccer",
+    "price": 119.99,
+    "stock": {
+      "black": 6,
+      "white": 5,
+      "blue": 6,
+      "red": 5
+    },
+    "image": "https://example.com/images/soccer-cleat.jpg",
+    "description": "Professional soccer cleats with molded studs and lightweight synthetic upper."
+  }
+]

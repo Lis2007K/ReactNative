@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "United States",
+    "country": "USA",
+    "description": "A federal republic in North America with a diverse economy and culture"
+  },
+  {
+    "id": 2,
+    "name": "France",
+    "country": "FR",
+    "description": "A Western European country known for art, cuisine, and the Eiffel Tower"
+  },
+  {
+    "id": 3,
+    "name": "Japan",
+    "country": "JP",
+    "description": "An island nation in East Asia famous for technology and traditional culture"
+  },
+  {
+    "id": 4,
+    "name": "Germany",
+    "country": "DE",
+    "description": "A Central European country known for engineering, beer, and classical music"
+  },
+  {
+    "id": 5,
+    "name": "Brazil",
+    "country": "BR",
+    "description": "The largest country in South America with Amazon rainforest and vibrant culture"
+  },
+  {
+    "id": 6,
+    "name": "India",
+    "country": "IN",
+    "description": "A South Asian nation with ancient history, diverse religions, and IT industry"
+  },
+  {
+    "id": 7,
+    "name": "Australia",
+    "country": "AU",
+    "description": "An island continent known for unique wildlife and beautiful landscapes"
+  },
+  {
+    "id": 8,
+    "name": "Canada",
+    "country": "CA",
+    "description": "A North American country famous for natural beauty and multicultural society"
+  },
+  {
+    "id": 9,
+    "name": "Italy",
+    "country": "IT",
+    "description": "A Mediterranean country renowned for Renaissance art, history, and Italian cuisine"
+  },
+  {
+    "id": 10,
+    "name": "Mexico",
+    "country": "MX",
+    "description": "A North American country with rich pre-Columbian heritage and vibrant traditions"
+  }
+]
